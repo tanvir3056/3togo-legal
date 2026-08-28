@@ -14,3 +14,12 @@
 12. Anca Stefan's current operational role (CTO vs CIO vs non-operational; Vadim Barshtak appears as CTO) and Thomas Barthuel's exact departure date: context only, no deliverable depends on them.
 13. Headcount (160 to 380 across aggregators) and current growth rate: the pack avoids quoting any figure as fact.
 14. "Stranger Things: Tales from '85" animated series (possible 2026 ST hook): recalled but unverified, LOW; verify before ever using an ST angle.
+
+## Transcript corrections (call recording reviewed 30 Aug; primary source, supersedes the summary where they differ)
+
+15. CONFIRMED: the closing speech is standard. His words: "when I say to everyone, if you think this isn't for you, just say it." Not a personal signal either way.
+16. CONFIRMED: he invited follow-up twice ("if anything comes up, feel free to reach out"; "if something pops up or questions, let me know, just reach out"). The Monday email answers an explicit invitation.
+17. CORRECTION: Tanvir told him "3 or 4 months before it will become a problem" on the visa, not "no time pressure". CEO: "we move fast anyway." Never raise it with CF again; but the personal planning clock is real from 31 Aug.
+18. He committed to responding "early next week, latest". A short nudge is legitimate from Wednesday if silent.
+19. His "almost sales, right?" pushback got a generalist answer on the call; the marketer answer in 07 is the fix for the CGO round. His paid-heavy correction means: in the CGO round, lead with knowing acquisition is paid-heavy and that partnerships exist to break from it.
+20. Tanvir's on-call close used "learning the right things"; in the CGO round the frame is builder, not learner.
