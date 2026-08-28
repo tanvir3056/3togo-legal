@@ -1,10 +1,12 @@
 # 05: Three partnership concepts
 
-Built to the CEO's units (users, generations, posts, days) and the bare-bones constraint: runnable by one person plus the new content team, existing product surfaces, no engineering beyond a landing page and templates. All brand work runs on the moderated tier of the API/Studio, never the NSFW-capable tier.
+Repositioned 29 Aug: these are INTERVIEW AND ASSESSMENT material, not an outreach plan. No Monday email (see 06); no public contact with Kling before Roemie comes back. For the outbound half, present the three activations in 10_brand_activations.md; Concept 2 below stays as the structural reference (give/get, tracking rails, guardrails).
+
+Built to the CEO's units (users, generations, posts, days) and the bare-bones constraint: runnable by one person plus the new content team, existing product surfaces, no engineering beyond a landing page and templates. All brand work runs on the moderated tier of the API/Studio, never the NSFW-capable tier. When presenting Concept 1, own the unknowns out loud: what Kling would give is a negotiation, not an assumption, and the capability question is CF-internal, never something to ask around a confidential launch.
 
 ---
 
-## Concept 1 (inbound, the Monday email): The Kling Co-Launch Playbook
+## Concept 1 (inbound): The Kling Co-Launch Playbook
 
 ### 1. Name and pitch
 "Kling day one, with a challenge." Turn Kling's next model drop from an API listing into a tracked acquisition event: day-one availability in Studio wrapped in a 14-day maker challenge aimed at 20,000 tracked sign-ups.
@@ -58,7 +60,7 @@ Built to the CEO's units (users, generations, posts, days) and the bare-bones co
 ### 9. Partner pitch (to Kling)
 We run your models in production for one of the largest crafting and design communities in the world: millions of registered users who make and post physical things. For your next launch we want a named launch-partner slot: give us access two weeks early under embargo and repost our community's best work. On day one your model goes live in our Studio wrapped in a 14-day maker challenge, with our TikTok, Reddit and Instagram channels and our email base behind it. You get a vertical adoption story no other aggregator gives you: real people making real crafts with your model in launch week, in a wall of tagged UGC. We commit inference volume and full embargo discipline.
 
-### 10. Three-line version (for the Monday email)
+### 10. Three-line version (only if a natural door opens, e.g. "had any more thoughts?")
 Kling's next drop should be a campaign, not a listing: day one in Studio, wrapped in a 14-day maker challenge with a template pack tuned to the model's headline feature, co-posted by Kling. Everything runs through one tracked landing page, aiming at your 20,000-users-in-14-days number, and the same playbook then reruns for every Google and ByteDance launch. The assets are capability-keyed, so if Kling slips the date nothing is wasted.
 
 ---

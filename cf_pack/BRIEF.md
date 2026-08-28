@@ -1,10 +1,14 @@
 # Brief: what was done in this session
 
-Date: 28 Aug 2026. Output: the `cf_pack/` directory, committed and pushed to branch `claude/creative-fabrica-partnerships-ov6giw` (commit d277cab).
+Dates: built 28 Aug 2026, repositioned 29 Aug. Output: the `cf_pack/` directory on branch `claude/creative-fabrica-partnerships-ov6giw`.
 
-## Objective
+## Posture (decided 29 Aug)
 
-Produce the research and drafts that let Tanvir (a) send Roemie (CEO, Creative Fabrica) one concrete partnership concept on Monday 31 Aug, before the candidate shortlist is made, and (b) walk into the CGO round and a likely live assessment with three fully built partnership concepts, a hit list, an events calendar, and a competitive picture.
+The pack is a PRIVATE DOSSIER for the CGO round and assessment, not a Monday action plan. No email to Roemie on Monday (the draft assumed facts about a live Kling negotiation and asked about a confidential capability; decision recorded in 06). The housing/timing line is deleted permanently. No public contact with Kling before Roemie comes back. The outbound showcase is now 10_brand_activations.md: three activations where brand + AI + CF is obvious in one sentence (the Crowd-Crafted Christmas Ad, the Fan Merch Amnesty, Launch the Colour Like a Model), replacing the generic "Make the Gift" as the thing to present.
+
+## Original objective (superseded in part)
+
+Produce research and drafts for (a) a Monday concept email to the CEO (now not sent) and (b) the CGO round and live assessment (now the sole purpose).
 
 ## How it was done
 

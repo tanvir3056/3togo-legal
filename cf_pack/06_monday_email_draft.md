@@ -1,12 +1,26 @@
-# 06: Monday email drafts (to Roemie, 31 Aug morning)
+# 06: Monday email. DECISION 29 AUG: DO NOT SEND.
 
-SEND VARIANT B. Before sending: read it aloud once and cut anything that does not sound like you; replace [phone] with your number. Variants A and C are kept for reference only. Subject suggestion: "Kling next week" or "One idea from Thursday". Send from the same thread as the earlier exchange if possible. The concept lines trace to Concept 1 in 05_concepts.md; the 20,000 number is Roemie's own unit from the call.
+## The decision
 
-Monday morning checklist: (1) check kling.ai and @Kling_ai once (pivot line below if the model already launched), (2) phone number in, (3) send by 9:00 CEST.
+No email goes to Roemie on Monday. Reasons, in order:
 
----
+1. He told you exactly what happens next: finish first conversations, select candidates, CGO interview. You are waiting for that selection. He did not ask for homework, and unrequested homework at selection time reads as pressure, not initiative.
+2. The draft assumed facts nobody gave you: that CF would treat the Kling drop as a bare API listing (Roemie never said that), and that Kling would co-post and fund prizes (no information supports either).
+3. The draft asked which capability is coming, which invites Roemie to breach whatever confidentiality sits around the launch. Bad question to be remembered for.
+4. The housing line is deleted permanently. He asked if you had time pressure; you said no; he said good, normal process. Reopening timing contradicts your own answer.
+5. Do not touch Kling publicly (posts, outreach, anything) before Roemie comes back. CF is in live talks; freelancing near a live negotiation is the one way to turn research into damage.
 
-## Variant A: pure concept (reference)
+Your strongest Monday position: Roemie remembers the persistent candidate with unusual enterprise AI partnership experience who clearly wants to move toward consumer growth. That memory needs no email.
+
+## Where the preparation goes instead
+
+Everything in this pack deploys at the CGO round and the assessment, conversationally, not as a research dump: the growth targets, provider dynamics, the three-concept structure (02, 05), the new outbound bench (10_brand_activations.md), attribution thinking (07), and the hit list and events as artefacts if asked. If Roemie's reply or the CGO invite opens a natural door ("had any more thoughts?"), Concept 1's three-line version is the prepared answer to a question actually asked.
+
+## Archived drafts (reference only, superseded)
+
+Kept so the thinking is not lost. The Kling concept itself remains sound as interview material; these drafts' framing does not.
+
+### Variant A (archived)
 
 Hi Roemie,
 
@@ -15,11 +29,8 @@ Thanks again for Thursday. One thing kept turning in my head afterwards: you sai
 To sharpen it I would need one thing from you: which capability is in scope, longer clips, audio, or the image side.
 
 Tanvir
-[phone]
 
----
-
-## Variant B: concept plus timing line (SEND THIS ONE)
+### Variant B (archived; was marked to send; housing line removed even from the archive)
 
 Hi Roemie,
 
@@ -27,14 +38,9 @@ Thanks again for Thursday. Since the call I have been chewing on the Kling launc
 
 One question to sharpen it: which capability is in scope, longer clips, audio, or image. I have the full one pager written out; say the word and I will send it.
 
-Separately, I am keeping my Amsterdam housing options open this week, so a rough read on your timing would help.
-
 Tanvir
-[phone]
 
----
-
-## Variant C: concept plus Google question (reference)
+### Variant C (archived)
 
 Hi Roemie,
 
@@ -43,13 +49,3 @@ Thanks again for Thursday. The Kling launch you mentioned kept turning in my hea
 To sharpen it: which capability is in scope, longer clips, audio, or image? And on Google, when their PMs text you at 5 AM, who runs the follow-through today? That answer changes what I would do in week one.
 
 Tanvir
-[phone]
-
----
-
-## Notes
-- Word counts (body, excluding sign-off): A 125, B 138, C 126. All inside 90 to 140.
-- The one-pager offer in B is the reply hook: it gives Roemie a concrete reason to answer, and the reply is the point. Have the one-pager (Concept 1 from 05, trimmed to a page) ready before you send.
-- No banned words, no bullets, no em or en dashes, no other CF roles, no visa mechanics beyond the single housing line in B.
-- The "20,000 users in 14 days" is Roemie's own number from the call; using it back at him is deliberate.
-- If Kling publicly launches before Monday morning, swap "might launch a new model next week" for a reference to the actual launch and send the same concept as "here is what I would have run this week".
