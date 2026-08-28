@@ -18,7 +18,7 @@ Hi Roemie,
 
 Thanks again for Thursday. The partnerships side of the call stayed with me over the weekend, so I put one idea on paper. When Kling's next model lands, run it as a campaign instead of a feature release: day one in Studio, a maker challenge wrapped around it, a template pack tuned to whatever the headline capability turns out to be, all through one tracked landing page and measured against your 20,000 users in 14 days number. The same playbook then reruns for every Google and ByteDance drop. It is how Freepik and fal treat launch days, and CF's craft audience makes it land harder.
 
-It is one page. Say the word and I will send it, or I will keep it for the next round.
+It is one page. Say the word and I will send it, or I will keep it for the next round. The brand side of the role got me thinking too, but that one I would rather talk through than write down.
 
 Tanvir
 [phone]
