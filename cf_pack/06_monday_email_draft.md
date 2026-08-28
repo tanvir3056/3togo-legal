@@ -1,24 +1,43 @@
-# 06: Monday email. DECISION 29 AUG: DO NOT SEND.
+# 06: Monday email. DECISION 30 AUG: SEND (the clean version below).
 
-## The decision
+History: the 28 Aug drafts were killed on 29 Aug for assuming facts about a live Kling negotiation, asking about a confidential capability, and reopening timing. On 30 Aug the decision moved to: send, but the clean version, which keeps the ammo and removes the landmines. The archived originals are at the bottom for reference only.
 
-No email goes to Roemie on Monday. Reasons, in order:
+## Monday checklist
 
-1. He told you exactly what happens next: finish first conversations, select candidates, CGO interview. You are waiting for that selection. He did not ask for homework, and unrequested homework at selection time reads as pressure, not initiative.
-2. The draft assumed facts nobody gave you: that CF would treat the Kling drop as a bare API listing (Roemie never said that), and that Kling would co-post and fund prizes (no information supports either).
-3. The draft asked which capability is coming, which invites Roemie to breach whatever confidentiality sits around the launch. Bad question to be remembered for.
-4. The housing line is deleted permanently. He asked if you had time pressure; you said no; he said good, normal process. Reopening timing contradicts your own answer.
-5. Do not touch Kling publicly (posts, outreach, anything) before Roemie comes back. CF is in live talks; freelancing near a live negotiation is the one way to turn research into damage.
+1. ~08:00 CEST: check kling.ai and @Kling_ai once. If the model already launched, change "When Kling's next model lands" to a reference to the actual launch; the rest of the email stands.
+2. Read the email aloud once; cut anything that does not sound like you. Insert your phone number.
+3. Send by ~9:00 CEST, in the same thread as the earlier exchange.
+4. Nothing else: no LinkedIn posts about Kling, no contact with anyone at Kling, before Roemie replies.
+5. Have 11_kling_onepager.md ready to send the moment he says "send it".
 
-Your strongest Monday position: Roemie remembers the persistent candidate with unusual enterprise AI partnership experience who clearly wants to move toward consumer growth. That memory needs no email.
+## THE EMAIL TO SEND
 
-## Where the preparation goes instead
+Subject: One idea from Thursday
 
-Everything in this pack deploys at the CGO round and the assessment, conversationally, not as a research dump: the growth targets, provider dynamics, the three-concept structure (02, 05), the new outbound bench (10_brand_activations.md), attribution thinking (07), and the hit list and events as artefacts if asked. If Roemie's reply or the CGO invite opens a natural door ("had any more thoughts?"), Concept 1's three-line version is the prepared answer to a question actually asked.
+Hi Roemie,
 
-## Archived drafts (reference only, superseded)
+Thanks again for Thursday. The partnerships side of the call stayed with me over the weekend, so I put one idea on paper. When Kling's next model lands, run it as a campaign instead of a feature release: day one in Studio, a maker challenge wrapped around it, a template pack tuned to whatever the headline capability turns out to be, all through one tracked landing page and measured against your 20,000 users in 14 days number. The same playbook then reruns for every Google and ByteDance drop. It is how Freepik and fal treat launch days, and CF's craft audience makes it land harder.
 
-Kept so the thinking is not lost. The Kling concept itself remains sound as interview material; these drafts' framing does not.
+It is one page. Say the word and I will send it, or I will keep it for the next round.
+
+Tanvir
+[phone]
+
+## Why this version is safe
+
+- Everything in it is Roemie's own words (Kling, the 20,000 number), your idea (challenge, tracking), or public fact (Freepik and fal run day-one launch co-marketing; sourced in 02 and 08).
+- No assumptions about what Kling would give: the challenge and tracking are CF-side; partner asks live in the one-pager as "asks, not assumptions".
+- No question that invites Roemie to breach launch confidentiality: "whatever the headline capability turns out to be" explicitly does not ask.
+- No housing or timing line: that topic was closed on the call and stays closed.
+- The one-pager offer is the reply hook; the fallback clause ("or I will keep it for the next round") removes any pressure.
+
+## Word count
+
+Body excluding sign-off: ~131 words. Inside the 100 to 150 rule.
+
+---
+
+## Archived drafts of 28 Aug (superseded; do not send; housing line removed)
 
 ### Variant A (archived)
 
@@ -30,7 +49,7 @@ To sharpen it I would need one thing from you: which capability is in scope, lon
 
 Tanvir
 
-### Variant B (archived; was marked to send; housing line removed even from the archive)
+### Variant B (archived)
 
 Hi Roemie,
 

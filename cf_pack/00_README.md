@@ -1,6 +1,6 @@
 # Creative Fabrica pack: read me first
 
-Prepared 28 Aug 2026; repositioned 29 Aug. This pack is a PRIVATE DOSSIER for the CGO round and the likely live assessment ("examples of potential partnerships and how you would approach it"). It is not a Monday action plan: NO email goes to Roemie on Monday (decision and reasons in 06), and nothing touches Kling publicly before he comes back. Your Monday position is the memory he already has: the persistent candidate with unusual enterprise AI partnership experience who clearly wants to move toward consumer growth.
+Prepared 28 Aug 2026; repositioned 29 Aug; final call 30 Aug. Two jobs: (1) Monday morning, send the CLEAN email in 06 (the version with no assumptions about Kling, no confidential question, no housing line) with 11_kling_onepager.md ready if Roemie says "send it"; (2) everything else in the pack is a private dossier for the CGO round and the likely live assessment. Still true: nothing touches Kling publicly before Roemie replies, and beyond the one email you are waiting for his selection, not chasing it.
 
 ## Reading order
 
