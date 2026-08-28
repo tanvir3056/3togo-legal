@@ -16,12 +16,14 @@ Subject: One thought from Thursday
 
 Hi Roemie,
 
-Thanks again for Thursday. One thought kept coming back over the weekend. When Kling's next model drops, everyone will have it on day one: Freepik, fal, Krea, all posting the same demo reels. What nobody else can give Kling is the physical world: real things made with their model, or real handmade things their model brings to life. Cut, printed, stitched, filmed. That is a co-marketing asset no other platform owns, and it is your Netflix logic pointed at the model labs instead of at brands. I would build the challenge and the tracking around that one difference, aimed at your 20,000 in 14 days number.
+Thanks again for Thursday. One thought kept coming back over the weekend. If the next Kling drop is video, every platform will post the same cinematic demo reels on day one: Freepik, fal, Krea. What only your users can feed a video model is the real world: millions of photos of things they actually made. So the campaign writes itself: bring your make to life. Crafters animate what they made, sellers turn product photos into listing videos in Studio, and both run through one tracked landing page aimed at your 20,000 in 14 days number. A UGC wave nobody else can generate, plus a workflow sellers keep.
 
-I have it written out on one page if you want it. The brand side got me thinking too, but that one I would rather talk through than write down.
+I have it on one page if you want it. The brand side got me thinking too, but that one I would rather talk through than write down.
 
 Tanvir
 [phone]
+
+Fallback if Monday's 8:00 check shows the drop was image-side after all: change "If the next Kling drop is video" to "When the new Kling image model landed" and swap the middle sentence for: "Your users are the only ones who turn a new image model into real things: cut files, prints, stitched designs, posted as physical makes." Everything else stands.
 
 ## Why this beats the earlier playbook version
 
