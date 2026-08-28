@@ -6,7 +6,7 @@ Prepared by Tanvir Singh Manku. The page Roemie gets if he says "send it". Keep 
 
 ## The idea in one line
 
-Day one access to a new model is commoditised: Freepik, fal and Krea all have it, and they all post the same demo reels. The one co-marketing asset no other platform can give Kling is physical proof: real things, made with their model, in the first week. Build the launch campaign around that difference.
+Day one access to a new model is commoditised: Freepik, fal and Krea all have it, and they all post the same demo reels. The one asset no other platform can give Kling is the physical world: CF is the only community where real things are both the input and the output of the model. Image model: outputs become physical (cut, printed, stitched). Video model: physical becomes the input, crafters photograph a finished make and image-to-video brings it to life; their product photos already exist. Build the launch campaign around that difference.
 
 ## Why this works
 
