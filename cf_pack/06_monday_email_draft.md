@@ -16,7 +16,7 @@ Subject: One thought from Thursday
 
 Hi Roemie,
 
-Thanks again for Thursday. One thought kept coming back over the weekend. When Kling's next model drops, everyone will have it on day one: Freepik, fal, Krea, all posting the same demo reels. What nobody else can give Kling is what your users make: real things, built with their model, in the first week. Cut, printed, stitched, filmed. That is a co-marketing asset no other platform owns, and it is your Netflix logic pointed at the model labs instead of at brands. I would build the challenge and the tracking around that one difference, aimed at your 20,000 in 14 days number.
+Thanks again for Thursday. One thought kept coming back over the weekend. When Kling's next model drops, everyone will have it on day one: Freepik, fal, Krea, all posting the same demo reels. What nobody else can give Kling is the physical world: real things made with their model, or real handmade things their model brings to life. Cut, printed, stitched, filmed. That is a co-marketing asset no other platform owns, and it is your Netflix logic pointed at the model labs instead of at brands. I would build the challenge and the tracking around that one difference, aimed at your 20,000 in 14 days number.
 
 I have it written out on one page if you want it. The brand side got me thinking too, but that one I would rather talk through than write down.
 
