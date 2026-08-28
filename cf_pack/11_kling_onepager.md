@@ -6,13 +6,13 @@ Prepared by Tanvir Singh Manku. The page Roemie gets if he says "send it". Keep 
 
 ## The idea in one line
 
-When Kling's next model lands in Studio, launch it as a campaign, not a feature release: day one availability wrapped in a 14 day maker challenge, one tracked landing page, measured in users.
+Day one access to a new model is commoditised: Freepik, fal and Krea all have it, and they all post the same demo reels. The one co-marketing asset no other platform can give Kling is physical proof: real things, made with their model, in the first week. Build the launch campaign around that difference.
 
-## Why launches, why now
+## Why this works
 
-- Model launches are free attention waves. Freepik and fal treat every major model day as a co-marketed event (day one posts, launch pages, credits); the providers reward the platforms that make their launch look adopted.
-- CF already implements new models within a day. The delta is not engineering, it is the marketing wrapper and the tracking.
-- The same playbook reruns for every Google, ByteDance and Kling drop after the first one. Build once, run monthly.
+- Model labs choose launch partners for the adoption story they generate. Every aggregator offers screens; only CF's users cut, print, stitch and film. A wall of physical makes in week one is evidence no demo reel matches.
+- It is the Netflix logic from CF's own history (attention and a headline for both sides, "knit your own Demogorgon") pointed at model labs instead of brands.
+- CF already implements new models within a day, so the delta is not engineering; it is the wrapper and the tracking. The playbook then reruns for every Google, ByteDance and Kling drop. Build once, run monthly.
 
 ## The mechanic (CF side only; what any partner adds is a negotiation, not an assumption)
 

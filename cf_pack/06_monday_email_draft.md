@@ -10,18 +10,22 @@ History: the 28 Aug drafts were killed on 29 Aug for assuming facts about a live
 4. Nothing else: no LinkedIn posts about Kling, no contact with anyone at Kling, before Roemie replies.
 5. Have 11_kling_onepager.md ready to send the moment he says "send it".
 
-## THE EMAIL TO SEND
+## THE EMAIL TO SEND (final, 30 Aug evening: rebuilt around the physical-proof insight, not the playbook)
 
-Subject: One idea from Thursday
+Subject: One thought from Thursday
 
 Hi Roemie,
 
-Thanks again for Thursday. The partnerships side of the call stayed with me over the weekend, so I put one idea on paper. When Kling's next model lands, run it as a campaign instead of a feature release: day one in Studio, a maker challenge wrapped around it, a template pack tuned to whatever the headline capability turns out to be, all through one tracked landing page and measured against your 20,000 users in 14 days number. The same playbook then reruns for every Google and ByteDance drop. It is how Freepik and fal treat launch days, and CF's craft audience makes it land harder.
+Thanks again for Thursday. One thought kept coming back over the weekend. When Kling's next model drops, everyone will have it on day one: Freepik, fal, Krea, all posting the same demo reels. What nobody else can give Kling is what your users make: real things, built with their model, in the first week. Cut, printed, stitched, filmed. That is a co-marketing asset no other platform owns, and it is your Netflix logic pointed at the model labs instead of at brands. I would build the challenge and the tracking around that one difference, aimed at your 20,000 in 14 days number.
 
-It is one page. Say the word and I will send it, or I will keep it for the next round. The brand side of the role got me thinking too, but that one I would rather talk through than write down.
+I have it written out on one page if you want it. The brand side got me thinking too, but that one I would rather talk through than write down.
 
 Tanvir
 [phone]
+
+## Why this beats the earlier playbook version
+
+The playbook version ("day one plus challenge plus tracking") described process any growth candidate could sketch, and Roemie's team already rides launch waves same-day. This version carries one insight he has not said himself: day-one access is commoditised across aggregators, and CF's unique co-marketing asset to a model lab is physical output, which is his own Netflix logic inverted toward providers. An idea, not a plan.
 
 ## Why this version is safe
 
