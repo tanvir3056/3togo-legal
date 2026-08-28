@@ -104,7 +104,7 @@ Kling's next drop should be a campaign, not a listing: day one in Studio, wrappe
 ### 8. First three targets
 1. Kim Rompilla, SVP Global Licensing, Crayola (publicly named, License Global): "Creative Acts of Color x Creative Fabrica", the adult-crafter extension of their open-call platform.
 2. Cricut partnerships/content (via investor-relations press contact; no name public): "design in Studio, cut on Cricut" Q4 make-along.
-3. Josh Simon, CEO, Funko (publicly named; ex-Netflix consumer products chief): personalised display and party-kit crafting around Pop! collecting.
+3. Funko's licensing or brand partnerships lead (title to confirm; no name public): personalised display and party-kit crafting around Pop! collecting. Context, not the contact: CEO Josh Simon (from Sept 2025) built Netflix's brand-partnership machine, so the org will understand this pitch; the week-one call still goes to the licensing level, not the CEO.
 
 ### 9. Partner pitch (to Crayola)
 Your Creative Acts of Color campaign asked the world to make art. We can hand it a million adult makers. Creative Fabrica is the platform where crafters design and physically make things: cards, ornaments, colouring pages, gifts. For Q4 we would build a walled Crayola flow in our Studio: your palettes and icons, our AI tools, and a "Make the Gift" challenge where every entry is a real object someone made by hand. You get user-made creativity at scale (the safe side of the AI story), a tracked UGC wall, and the press line. We get your amplification. Both sides get the headline.
@@ -138,8 +138,9 @@ A Q4 "Make the Gift" campaign with a craft-adjacent brand (Crayola, Cricut or Fu
 | Affiliate reach in the craft niche | 25%/20% recurring commissions (program already exists) |
 
 ### 5. Assets and effort
-- Zero-engineering first wave: affiliate recruitment via Awin/Impact, seller landing pages, co-marketed seller challenges with Printful/Printify/Gelato: content team plus one BD thread, ~2 weeks.
-- Engineering wave (flagged, needs product buy-in): Shopify app, print-ready export polish. Downgraded to quarter two of the plan for that reason.
+Present this as an explicit phase split, unprompted (it is the "bare bones" test):
+- Phase 1, runnable in two weeks by one person plus the content team, zero engineering: affiliate recruitment via Awin/Impact, seller landing pages, a Printful link-out and co-marketed seller challenge.
+- Phase 2, engineering, needs product buy-in and is therefore sequenced later: Gelato/Printify integrations, print-ready export polish, the Shopify app.
 
 ### 6. Tracking and KPI
 - Per-partner UTM funnels and affiliate links; partner-sourced sign-ups per route per month.
@@ -161,4 +162,4 @@ A Q4 "Make the Gift" campaign with a craft-adjacent brand (Crayola, Cricut or Fu
 Your growth is new sellers who upload designs that sell. Our platform is where those designs get made: a marketplace of 15M+ licensed assets and an AI Studio built for crafters and POD sellers. We want to be your design layer: print-ready files straight from Studio into your catalogue, plus a co-marketed holiday shop-launch challenge that pushes our millions of registered makers to open their first store with you. You get sellers and catalogue-ready designs; we get your seller base meeting Studio at the moment they need designs. Tracked links both ways, so we both see the number.
 
 ### 10. Three-line version
-Ad platforms now force SMBs to produce 5 to 40 creative variants per campaign, and nobody serves the seller niche CF already owns. Distribution partnerships (Printful/Printify and Gelato integrations, craft-creator affiliates via Awin, later a Shopify app) put Studio where Etsy and POD sellers already work. Measured as a channel: partner-sourced sign-ups per route per month, cohort quality against paid, losers cut at 60 days.
+Ad platforms now force SMBs to produce 5 to 40 creative variants per campaign, and nobody serves the seller niche CF already owns. Two phases: phase 1 runs in two weeks with zero engineering (craft-creator affiliates via Awin, seller landing pages, a Printful link-out and co-marketed challenge); phase 2 is the engineering (Gelato/Printify integrations, a Shopify app), sequenced once phase 1 proves the funnel. Measured as a channel: partner-sourced sign-ups per route per month, cohort quality against paid, losers cut at 60 days.

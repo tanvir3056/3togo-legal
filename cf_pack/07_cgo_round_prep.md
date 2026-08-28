@@ -102,8 +102,8 @@ Answers use only claimable facts. Keep each answer under 45 seconds live.
    Signals: he thinks in ownership and handover, and knows absorption is the stated pain.
 2. "How will partnership-driven sign-ups be measured against the 20k-in-14-days and 100k-in-7-days targets: same dashboard as paid, or separate?"
    Signals: he took the CEO's units seriously and cares about attribution mechanics, the CGO's home turf.
-3. "What did the Netflix collaboration deliver in numbers, and what would you do differently on the next one?"
-   Signals: he studied the precedent and thinks in iterations, not one-offs.
+3. "The Netflix collaboration you mentioned, what would you do differently now?"
+   Signals: he thinks in iterations, not one-offs, without assuming the deal was a case study. The collab has no public footprint (see 09), so it may have been small; this phrasing works either way, and if there were numbers he will hear them anyway.
 4. "What does a good first 90 days look like in this seat, in your numbers?"
    Signals: he wants to be managed by outcomes and expects targets.
 

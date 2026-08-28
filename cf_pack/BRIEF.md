@@ -39,7 +39,7 @@ Every fact carries a source URL, access date, and a HIGH/MEDIUM/LOW confidence l
 1. The Netflix Stranger Things collaboration has no public footprint; cite it only as "the collaboration you mentioned". The ST5 window is over, so Netflix pitches target the next tentpole.
 2. Kling's next model is unannounced; a September 3.5-class video refresh is a MEDIUM-confidence read (cadence, September precedent, rivals passing the 15s cap, $3B war chest). The email leans on Roemie's words, not the prediction.
 3. Named day-one launch partnerships are the established market pattern (fal, Picsart, Replicate with Kling; Freepik quoted in Google's launch posts): Concept 1 asks for a slot the market visibly grants.
-4. The 2025 AI-ad backlashes make "user-made, AI-assisted, physically finished" CF's defensible brand framing; warm named openers exist at Crayola (Kim Rompilla) and Funko (Josh Simon).
+4. The 2025 AI-ad backlashes make "user-made, AI-assisted, physically finished" CF's defensible brand framing; warmest doors: Crayola (named opener at the right altitude: Kim Rompilla, SVP Global Licensing) and Funko (outreach to its licensing/brand partnerships lead, with new CEO Josh Simon, ex-Netflix, as context).
 5. The CGO has essentially no public footprint, so prep targets the role (growth channel thinking, attribution, cohort quality), not the person.
 
 ## Before sending Monday
