@@ -1,41 +1,39 @@
 # The Kling Co-Launch Playbook (one-pager)
 
-Prepared by Tanvir Singh Manku. Video-first (final, 30 Aug): the evidence says the next Kling drop is a video model (rivals shipped native 30s while Kling's flagship caps at 15s), so the page leads with video and keeps image as the one-line fallback. The page Roemie gets if he says "send it".
+Prepared by Tanvir Singh Manku. Final structure (31 Aug): two ideas, deeply explained, nothing else. This is the page Roemie gets if he says "send it".
 
 ---
 
-## The idea in one line
+## The insight
 
-When the next Kling video model drops, every platform posts the same cinematic demo reels on day one: Freepik, fal, Krea. What only CF's users can feed a video model is the real world: millions of photos of things they actually made. The campaign is "Bring your make to life", and for sellers, "product photo to listing and ad videos".
+When the next Kling video model drops, day one access will be table stakes: Freepik, fal and Krea will have it within hours, all posting the same cinematic demo reels. CF has the one thing they cannot copy: users whose work exists in the physical world. That difference is worth exactly two campaigns.
 
-## Why this works
+## Idea 1: "Bring your make to life" (the acquisition spike)
 
-1. A photo library nobody else has. Crafters photograph everything they make; it is how they sell. Image-to-video turns that existing library into motion on launch day, no blank-page problem.
-2. Utility, not just a stunt. Etsy and POD sellers need listing and promo videos and rarely make them. "Product photo to listing and ad videos in Studio" converts the launch spike into a retained workflow, which is what makes the cohort worth keeping.
-3. A native viral genre. Craft process and transformation video (make-with-me, before-and-after) already thrives on TikTok and Reels; the challenge rides an existing behaviour.
-4. The Netflix logic, pointed at labs. A wall of real handmade things in motion is an adoption story no demo reel matches; attention and a headline for both sides.
-5. Repeatable. CF implements new models within a day; the delta is the wrapper and the tracking. The playbook reruns for every Google, ByteDance and Kling drop. Build once, run monthly.
+What happens, concretely: a crafter photographs something she made. A knitted dragon, a laser-cut lamp, a painted mug. She drops the photo into Studio, picks a motion template, and the new model animates it: the dragon breathes fire, the lamp glows in a dark room, the mug steams. Fifteen seconds, made in a minute, and unmistakably hers, because the object is real.
 
-## The mechanic
+Why she does it: crafters already photograph everything they make; it is how they sell and share, so there is no blank-page problem. And animating your own real object feels different from generating a generic clip. That feeling is what gets posted.
 
-1. Video-first template pack: "bring your make to life" (animate a photo of a finished make), "the 30 second make" (a whole project condensed into one clip), "listing and ad videos in one click" (the seller flow: their own product photos become their own social content and ads). If the drop lands image-side instead, the same rails run image variants (cut files, prints); only the headline swaps.
-2. One landing page: challenge brief, gallery, sign-up. Every channel post, email and in-product tile points at it.
-3. Launch hour: model live in Studio, page opens, channels push, email goes.
-4. Days 2 to 14: daily featured makes on CF channels; winners get Studio subscriptions.
-5. Entries require an account and a generation, so participation is a tracked sign-up plus activation in one step.
+Why it acquires: every posted clip is a before-and-after of a real thing, a genre that already performs on TikTok and Reels. Every clip carries the challenge tag and the landing page link. Entering requires an account and a generation, so each participant is a tracked sign-up plus an activation in one step. Target: 20,000 tracked users in 14 days.
 
-## Effort (bare bones)
+## Idea 2: "Your product, in motion" (the retention layer)
 
-Landing page ~2 days. Template pack ~3 days, reusable. Post kit ~1.5 days. In-product tile is configuration. Total: about one week of the content team, no engineering beyond the page.
+What happens: an Etsy or POD seller has forty product photos and zero videos, because video is work. In Studio she selects a product photo and gets back a listing video and two or three ad-ready cuts for social. Ten minutes for her whole shop.
+
+Why it matters more than the challenge: challenges spike and decay. A seller who turns product photos into listing and ad videos has found a workflow she will repeat every time she lists something new. That is the difference between a launch cohort that visits and one that stays, and it shows up in D7 retention and subscriber conversion, not just the day-one number.
+
+## Effort
+
+About one week of the content team (landing page, template pack, post kit); no engineering beyond the page. Both flows share one landing page and one tracking setup.
 
 ## Measurement
 
-Attribution: the landing page, UTMs on every link, a campaign tag on the in-product entry, and "where did you hear about this" at sign-up as the check. Target: 20,000 tracked users in 14 days for a feature scale push, with 50%+ making a first generation in week one. Secondary: generations on the new model, challenge posts, listing videos created by sellers, D7 retention against paid cohorts, subscriber conversion at day 30. Kill line: under 5,000 sign-ups or activation under 25% means the mechanic gets redesigned before the next launch.
+UTMs on every link, a campaign tag on the in-product entry, a source question at sign-up as the check. Primary: 20,000 tracked users in 14 days. Quality: 50%+ making a first generation in week one, D7 retention against paid cohorts, seller videos created, subscriber conversion at day 30. Kill line: under 5,000 sign-ups or activation under 25%, and the mechanic gets redesigned before the next launch.
 
-## What I would explore with the partner (asks, not assumptions)
+## What I would ask Kling for (asks, not assumptions)
 
-Early access under embargo, a named mention in their launch post, reposts of the community's best makes, credits for prizes. Each is a negotiation; the campaign runs and gets measured even if the answer to all four is no.
+Early access under embargo, a named mention in their launch post, reposts of the community's best makes, credits for prizes. Each is a negotiation; both ideas run and get measured even if every answer is no.
 
-## Risks
+## Two honest notes
 
-Provider dates slip (assets are date-portable by design). Moderation load in launch week (moderated tier, human review before featuring). Novelty decay (which is why the KPI includes the seller workflow and cohort quality, not just the spike).
+If the drop lands image-side instead of video, the same rails run image variants (cut files, prints) and only the headline changes. And this is a playbook, not a one-off: the same two flows rerun for every Google, ByteDance and Kling launch after this one.
