@@ -6,19 +6,19 @@ Prepared by Tanvir Singh Manku. Video-first (final, 30 Aug): the evidence says t
 
 ## The idea in one line
 
-When the next Kling video model drops, every platform posts the same cinematic demo reels on day one: Freepik, fal, Krea. What only CF's users can feed a video model is the real world: millions of photos of things they actually made. The campaign is "Bring your make to life", and for sellers, "product photo to listing video".
+When the next Kling video model drops, every platform posts the same cinematic demo reels on day one: Freepik, fal, Krea. What only CF's users can feed a video model is the real world: millions of photos of things they actually made. The campaign is "Bring your make to life", and for sellers, "product photo to listing and ad videos".
 
 ## Why this works
 
 1. A photo library nobody else has. Crafters photograph everything they make; it is how they sell. Image-to-video turns that existing library into motion on launch day, no blank-page problem.
-2. Utility, not just a stunt. Etsy and POD sellers need listing and promo videos and rarely make them. "Product photo to listing video in Studio" converts the launch spike into a retained workflow, which is what makes the cohort worth keeping.
+2. Utility, not just a stunt. Etsy and POD sellers need listing and promo videos and rarely make them. "Product photo to listing and ad videos in Studio" converts the launch spike into a retained workflow, which is what makes the cohort worth keeping.
 3. A native viral genre. Craft process and transformation video (make-with-me, before-and-after) already thrives on TikTok and Reels; the challenge rides an existing behaviour.
 4. The Netflix logic, pointed at labs. A wall of real handmade things in motion is an adoption story no demo reel matches; attention and a headline for both sides.
 5. Repeatable. CF implements new models within a day; the delta is the wrapper and the tracking. The playbook reruns for every Google, ByteDance and Kling drop. Build once, run monthly.
 
 ## The mechanic
 
-1. Video-first template pack: "bring your make to life" (animate a photo of a finished make), "the 30 second make" (a whole project condensed into one clip), "listing video in one click" (the seller flow). If the drop lands image-side instead, the same rails run image variants (cut files, prints); only the headline swaps.
+1. Video-first template pack: "bring your make to life" (animate a photo of a finished make), "the 30 second make" (a whole project condensed into one clip), "listing and ad videos in one click" (the seller flow: their own product photos become their own social content and ads). If the drop lands image-side instead, the same rails run image variants (cut files, prints); only the headline swaps.
 2. One landing page: challenge brief, gallery, sign-up. Every channel post, email and in-product tile points at it.
 3. Launch hour: model live in Studio, page opens, channels push, email goes.
 4. Days 2 to 14: daily featured makes on CF channels; winners get Studio subscriptions.

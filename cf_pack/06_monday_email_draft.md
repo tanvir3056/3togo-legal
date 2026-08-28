@@ -16,7 +16,7 @@ Subject: One thought from Thursday
 
 Hi Roemie,
 
-Thanks again for Thursday. One thought kept coming back over the weekend. If the next Kling drop is video, every platform will post the same cinematic demo reels on day one: Freepik, fal, Krea. What only your users can feed a video model is the real world: millions of photos of things they actually made. So the campaign writes itself: bring your make to life. Crafters animate what they made, sellers turn product photos into listing videos in Studio, and both run through one tracked landing page aimed at your 20,000 in 14 days number. A UGC wave nobody else can generate, plus a workflow sellers keep.
+Thanks again for Thursday. One thought kept coming back over the weekend. If the next Kling drop is video, every platform will post the same cinematic demo reels on day one: Freepik, fal, Krea. What only your users can feed a video model is the real world: millions of photos of things they actually made. So the campaign writes itself: bring your make to life. Crafters animate what they made, sellers turn product photos into listing and ad videos in Studio, and both run through one tracked landing page aimed at your 20,000 in 14 days number. A UGC wave nobody else can generate, plus a workflow sellers keep.
 
 I have it on one page if you want it. The brand side got me thinking too, but that one I would rather talk through than write down.
 
