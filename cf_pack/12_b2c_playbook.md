@@ -1,113 +1,80 @@
-# 12: The B2C Playbook
+# Partnership ideas for Creative Fabrica
 
-Built 31 Aug 2026 from Tanvir's own idea notes, structured and researched. Six plays, each with precedent, mechanic and named targets; full target rows in 13_target_sheets.csv (70 rows). Sources and confidence labels live in the three research files behind this (kids/pets, contest targets, agencies/events); nothing below is asserted without one. House rule everywhere: licensed asset packs only, never AI recreations of IP or real people.
+Tanvir Singh Manku, September 2026.
 
-The thread that ties all six: CF's users make and share things at consumer scale; every play is measured in users, makes and posts, and a brand partner adds budget and reach on top of a mechanic that works without them.
+Roemie said two things on our call that stuck with me. Paid is expensive and CF needs to break from it. And partnerships here are not sales, they are a way to get users. Every idea below follows those two rules. Each one brings people to Studio, can be counted, and works even if the partner says no to everything.
 
----
-
-## Play 1: Bring Your Make to Life (the Kling launch)
-
-Already built in full: see 11_kling_onepager.md and the Monday email. One line here for the map: when the new video model drops, crafters animate photos of real things they made, sellers turn product photos into listing and ad videos, all through one tracked page aimed at 20,000 users in 14 days. Everything below is what runs after and alongside it.
+I have three ideas I would start with, and a bench behind them. The contact sheet that goes with this has 70 researched targets across all of them.
 
 ---
 
-## Play 2: Kid's Drawing, Made Real (the flagship)
+## Idea 1: Turn model launches into campaigns
 
-### The idea
-A child draws a tiger. A parent photographs the drawing, drops it into Studio, and the tiger comes alive: an animated short with the child's exact wobbly lines, plus a printable colouring page, a plush sewing pattern, a t-shirt print. The drawing is the input; the family keepsake is the output.
+**What it is.** Every few weeks a partner like Kling or Google ships a new model and CF adds it to Studio within a day. Right now that is a feature release. I would make it a campaign. When the next video model lands, we run a two week challenge: crafters upload a photo of something they made and the model brings it to life. A knitted dragon breathes fire. A seller's product photo becomes a listing video and three ad cuts.
 
-### Why this is the strongest card in the deck
-1. The corporate precedent exists and it is IKEA. SAGOSKATT: IKEA's annual Soft Toy Drawing Competition, run since 2014. Kids under 12 submit drawings of their dream soft toy; 5 to 6 winners out of 60,000 to 87,000 entries become real plush sold in IKEA stores worldwide, 100% of sales to children's charities. (Caveat, stated honestly: the latest edition verifiable from outside is the 2021 collection; confirm current status with IKEA NL before citing it as ongoing.)
-2. The AI precedent exists and it is Meta. Meta's free "Animated Drawings" research tool animated kids' drawings in seconds and was trained specifically on the impossible proportions of children's art. The demand was proven; Meta never productised it. CF can.
-3. The commercial precedent exists and it is Budsies: 76,000+ custom plushies made from kids' drawings at ~$99 each, shipped to 60+ countries. People pay real money for exactly this.
-4. The emotional physics are unbeatable: "my 5-year-old designed this" is the single most reliably shared genre of parent content, and unlike generic AI art there is zero slop backlash risk, because the creativity is visibly the child's.
+**Why it works.** Freepik, fal and Krea will all have the same model on day one, and they will all post the same demo clips. Our users are the only ones who can feed a video model real handmade things. That gives the model maker something nobody else can give them, which is exactly the leverage Roemie described having with Google.
 
-### The mechanic (CF-only version, runs with no partner)
-- A "Kid's Drawing, Made Real" flow in Studio: upload the drawing, pick the output (animated short, colouring book, plush pattern, print).
-- Parents post the side-by-side (drawing next to the animation) with the campaign tag; gallery on one tracked landing page; entries need an account plus a generation, so participation is sign-up and activation in one step.
-- Seasonal spike: run it into December ("this year's Christmas card is by our 6-year-old").
+**How it runs.** One landing page. A template pack built before the launch, so a slipped date costs nothing. Model goes live, page opens, channels push, email goes. Two weeks of daily featured makes. Entering needs an account and a generation, so every participant is a signup plus an activation.
 
-### The partner version (who and what)
-- Where the brand plugs in: prizes and amplification, an in-store or on-pack entry point, and the SAGOSKATT-style physical payoff (winning drawings become a real product, proceeds to a children's charity).
-- Tier 1 targets, from the research: Crayola (Warren Schorr, SVP Business Development, Global Licensing, publicly named; Crayola already runs open calls for user art), IKEA (invented the category; Inter IKEA Systems is Dutch-registered, local), BBC Studios/Bluey (Suzy Raia, EVP Global Consumer Products, publicly named; number-one preschool property), LEGO/DUPLO (fan-design culture via LEGO Ideas), Ravensburger (drawing to jigsaw puzzle is a natural output; licensing lead publicly named, verify title).
-- The Amsterdam pilot: HEMA. Amsterdam HQ, markets itself as the children's store of the Netherlands, full crafting ("knutselen") category, kids-party craft packages, and existing photo-product printing. "Knutsel het, beleef het": in-store drawing weeks, CF animates, HEMA prints the mug or tee. Cheap, fast, local, and a Dutch press story ("Amsterdam AI platform x Dutch icon").
+**What I would measure.** 20,000 tracked users in 14 days. Half of them generating something in week one. If we get under 5,000, the mechanic is wrong and gets redesigned before the next launch.
 
-### The pitch line
-"IKEA proved kids' drawings can become real products people queue for. We can do it for every child, not five winners a year, and the drawing comes alive on screen the same day. You bring the stores and the charity halo; we bring the magic and the makers."
-
-### Numbers
-Target in the CEO's units: 20,000 tracked sign-ups in 14 days for the campaign spike; secondary: side-by-side posts, D7 of the parent cohort, print/pattern downloads. Failure line: under 5,000 or activation under 25%.
+**Who I would talk to first.** Kling's API team (we already run their models), then the same playbook for every Google and ByteDance drop.
 
 ---
 
-## Play 3: Pet, But Plush (the second heartstring)
+## Idea 2: Kid's Drawing, Made Real
 
-One line: upload your pet's photo, get the crochet pattern, portrait or ornament; pet content is the internet's oxygen.
+**What it is.** A kid draws a tiger. A parent drops the drawing into Studio and the tiger comes alive as a short animation, with the kid's exact wobbly lines. Then it becomes a colouring page, a plush sewing pattern, a t-shirt print. The parent posts the drawing next to the animation.
 
-The precedent is Chewy, verified: since ~2013 Chewy has sent customers free hand-painted portraits of their pets, unsolicited, at 1,000+ paintings a week, and it is the most-loved loyalty program in e-commerce. CF's version scales it infinitely: the AI makes the pattern or portrait, the customer makes the object. Budsies' "Petsies" spin-off (custom pet plush from photos) proves people pay.
+**Why it works.** This is not a guess, three companies already proved the pieces:
 
-Partner plug-ins: Chewy itself (scale their own playbook), BARK/BarkBox ("your dog becomes this month's toy design"), Purina Europe (pack code unlocks a free pattern), Pedigree (shelter pets become plush patterns, proceeds to shelters: the adoption-content angle). NL pilot: Pets Place. Run CF-only first; it needs no permission.
+- IKEA has run SAGOSKATT since 2014. Kids submit drawings of their dream soft toy, up to 87,000 entries a year, and the winners become real plush sold in IKEA stores worldwide, with all proceeds to children's charities. IKEA proved families love this. They just can only do it for five winners a year. We can do it for every child, the same day.
+- Meta built a free AI tool that animates kids' drawings and it went viral. They proved the demand and never turned it into a product.
+- Budsies sells custom plushies made from kids' drawings at about 99 dollars each and has shipped 76,000 of them. People pay for this.
 
----
+And unlike most AI campaigns, there is no backlash risk. The creativity is visibly the child's. "My 5 year old designed this" is the most shared kind of parent content there is.
 
-## Play 4: Fan Video Contests (launch-tied, licensed)
+**How it runs.** Same rails as Idea 1: a flow in Studio, side by side posts with a campaign tag, a gallery, one tracked page. It runs fine with no partner at all. A brand partner adds prizes, reach and the physical payoff, IKEA style: winning drawings become a real product, proceeds to charity.
 
-### The rule that makes it pitchable
-Official asset packs only (logos, key art, characters the brand owns); never AI recreations of IP or real people. Post-2025-backlash, this rule is the pitch: it is why a brand can say yes.
+**Who I would call first.**
+1. Crayola. They already run open calls for people's art, and their licensing lead (Warren Schorr, SVP Global Licensing) is publicly the door for exactly this kind of deal.
+2. IKEA. They invented the format, and Inter IKEA is Dutch registered. The pitch: SAGOSKATT, but every entrant gets the magic, not just the winners.
+3. HEMA, for a fast local pilot. Amsterdam HQ, calls itself the children's store of the Netherlands, has craft aisles and photo printing already. Drawing weeks in store, we animate, they print the mug.
 
-### The target calendar (verified 31 Aug; full table in the sheet)
-- Priority 1, October: Fanta "Haunted Universe" launched 26 Aug in 50 markets with original horror characters Fanta owns, and Fanta has said it wants Halloween to be "Fanta's Christmas". A make-your-own-30-second-haunted-short contest from the official character pack is the natural next chapter, and the timing is now. (Exclude the Ghost Face collab element: third-party IP.)
-- Priority 1, fall: M&M's Flavor Vote winner launches this fall, the first fan-voted flavour in seven years. "Fans voted it into existence; now fans make its launch film." The participation loop already exists; the contest closes it.
-- Priority 1, Jan to Mar: Eurovision 2027 run-up (national finals season). The archetypal fan-video community; official heart-logo pack, no artist likenesses, no song audio without sync.
-- Priority 2: "Dunesday" 18 Dec (Dune Part Three, house sigils and typography pack; better access odds than Marvel's same-day Avengers), Percy Jackson S3 weekly run from 20 Nov (cabin-pride videos), Netflix Christmas slate, GTA VI 19 Nov and CoD MW4 23 Oct (huge but licence-gated; Rockstar's fan policy excludes commercial use, so only with a direct licence), Pringles' next limited flavour ("make the unofficial-official launch ad").
-- Dropped with reasons: Shrek 5 (moved to Jun 2027), Wednesday S3 and Witcher S5 (slipped to 2027), Nintendo anything (fan-content policy too strict without a formal licence).
+Also on the list: Bluey (BBC Studios, licensing leads named), LEGO, Ravensburger (drawing becomes a real jigsaw).
 
-### The give and get
-Brand gives the asset pack, prizes, amplification, and possibly features the winner in official promo (the hook Tanvir's notes proposed). CF gives the tools, the audience, the tracked UGC wall, moderation and right-of-review. Measured on the same rails as every play.
+**What I would measure.** Same units: 20,000 tracked signups in 14 days for the campaign spike, then how many parents come back, because a family that made one keepsake makes more.
 
 ---
 
-## Play 5: Creative Volume as a Channel (agencies and operators)
+## Idea 3: Fan video contests around big launches
 
-Tanvir's instinct ("maybe agencies better") is right, with one framing rule: these partners do not buy Studio, they route their long tail of SMB clients and their own throughput into it. Channel, not enterprise sales.
+**What it is.** When something big launches, a film, a flavour, a game, fans compete to make the best short AI video for it, using an official asset pack the brand gives us. Winner gets featured in the brand's own promo. The brand gets a wave of fan-made content at their launch moment. We get every contestant as a signed-up user.
 
-- Best single target, and it is local: DEPT (Amsterdam). Runs a dedicated Creative Automation practice and launched "Deptify", an open AI orchestration layer, at Cannes 2026: explicitly built to plug external tools in. An Amsterdam-to-Amsterdam conversation.
-- NL cluster for fast wins: Fingerspitz (Best Agency of the Netherlands 2024/25, publicly positions itself as the practical-AI partner), Happy Horizon (750+ people, buy-and-build group where one deal serves every hub), Team5pm (Amsterdam video agency now in the SAMY Alliance: one deal could scale across a European network), Yellowgrape (self-described AI-powered e-commerce agency).
-- Global proof-of-model targets: Common Thread Collective (its ideal-client language literally says brands must "value creative volume"), TubeScience (hundreds of videos a day; the highest-volume creative operation alive), Soar With Us, Pilothouse (whose DTC media network is itself a distribution channel), Kaya (120+ startups on a low-fee model that only works with cheap fast creative).
-- Operators with absurd creative demand: Razor Group (10,000+ SKUs, ~270 staff after the Infinite Commerce merger: extreme automation need), Berlin Brands Group, Loop Earplugs as the lighthouse case (publicly documented running 1,800+ simultaneous Meta ads; even if they build in-house, they are the case study every EU DTC brand copies).
-- The official on-ramps, verified: TikTok One creative-partner signup (TTCX is migrating into "Partner Exchange"), TikTok Marketing Partners Creative badge, Meta Business Partners creative track via Business Manager.
+**The one rule that makes brands say yes.** Official asset packs only. Never AI versions of actors, characters we do not have rights to, or real people. After the AI ad backlashes of last year, that rule is the reason a brand team can approve this.
 
-KPI: partner-routed sign-ups per agency per month, cohort quality against paid, one named agency live within 60 days.
+**The calendar is already written.** I checked what launches in the next six months:
 
----
+- Fanta just launched "Haunted Universe" in 50 markets, with original horror characters Fanta owns outright. They have said they want Halloween to become "Fanta's Christmas". Perfect first pitch, and the timing is October.
+- M&M's ran its first fan flavour vote in seven years and the winning flavour ships this fall. "Fans voted it into existence, now fans make its launch film." The participation loop already exists, we just close it.
+- December 18 is "Dunesday": Dune Part Three opens against Avengers the same day. Warner will want every bit of fan noise. House sigils and typography pack, no actor faces.
+- Also mapped: Percy Jackson season 3 (weekly from 20 Nov), the Netflix Christmas films, GTA VI (19 Nov, needs a real licence, Rockstar is strict), Eurovision's national finals in Jan to Mar.
 
-## Play 6: The Event Creative Partner (Tanvir's summit idea, upgraded)
-
-The upgrade from "send them a promo video and wear merch": pitch the organiser a creative-partner deal where CF IS the event's creative layer: the poster, badge art and screen visuals made in Studio, plus a live "AI ad studio" booth where attendees generate their own creatives on the spot (every one a tracked sign-up).
-
-Verified routes, in order of attack:
-1. AI Tinkerers Amsterdam (monthly meetup, 251-city network): sponsor one meetup for low thousands, demo Studio live. The cheap rehearsal, bookable this month.
-2. World Summit AI, 7 to 8 Oct, Amsterdam, 10th anniversary edition: commercial-partners page and a community-partner route exist (worldsummit.ai/form-partners). Home turf; a 10th-anniversary edition wants visual spectacle. THE one to pitch first.
-3. AI & Big Data Expo, 19 to 20 Oct, RAI Amsterdam: classic expo booth plus demo-theatre slot, zero travel.
-4. Slush, 18 to 19 Nov, Helsinki (partners@slush.org): 5,000 founders who all need launch creatives.
-5. Web Summit, 9 to 12 Nov, Lisbon: partner pavilions priced individually; a content-creation lounge concept.
-6. NVIDIA GTC Berlin: sponsorship is invitation-only (GTC-Sponsors@nvidia.com); attend, do not buy.
-7. SXSW, Mar 2027: the brand-activation capital, but six-figure territory; only with real budget.
+**What I would measure.** Contest entries, tracked signups from the contest page, and the reach the brand's amplification adds. Same 14 day units.
 
 ---
 
-## The at-scale bench (owned mechanics, no partner needed)
+## The bench (each of these is one conversation away from being a plan)
 
-For "we need more at scale" (his note): five mechanics where scale comes from the user's own feed, held as one-liners until one is needed:
-- Maker Wrapped: a year-end shareable card of everything you made; Spotify Wrapped for hands (200M-user format, proven).
-- The Million Makes: a live public counter, the community races to one million makes before Christmas (Duolingo's collective-goal mechanic).
-- Advent of Making: 24 daily surprise projects in December; daily habit plus FOMO.
-- Ugly Sweater, Literally: generate the design, knit or print it for actual Ugly Sweater Day (third Friday of December; the hashtag day already exists).
-- The Wedding Factory / Birthday Machine: one flow designs the whole event; every wedding broadcasts your output to 100 guests, and birthdays never have an off-season.
+- **Pet, But Plush.** Your pet's photo becomes a crochet pattern or ornament. Chewy has hand-painted 1,000+ free pet portraits a week for a decade and it is the most loved loyalty program in e-commerce. We can scale that idea infinitely.
+- **Agencies as a channel.** Agencies that make hundreds of ads a week for small brands can route that work through Studio. Best target is in our own city: DEPT Amsterdam just launched an open AI layer built to plug in tools like ours. Behind them: Fingerspitz, Happy Horizon, Team5pm, and proof-of-need cases like Loop Earplugs, which runs 1,800 Meta ads at once.
+- **Be the creative partner of AI events.** Not a booth, the creative layer: the event's posters and screens made in Studio, plus a live station where attendees generate their own creatives and every demo is a signup. World Summit AI is in Amsterdam on 7 and 8 October and their partner form is open. A local AI meetup sponsorship is the cheap rehearsal.
+- **Maker Wrapped.** A year-end shareable card of everything you made this year. The Spotify Wrapped format, for hands.
+- **The Million Makes.** A public counter, the community races to a million makes before Christmas. Communal goals like this revived Duolingo's owl.
+- **Advent of Making.** 24 small surprise projects in December, one a day.
 
 ---
 
-## How to present this (assessment shape)
+## How I would run all of it
 
-Do not present six plays. Pick three that show range and go deep: Play 1 (inbound, the launch engine), Play 2 (outbound brand, the flagship with the IKEA precedent), Play 5 or 6 (channel thinking). Each in the same skeleton: the idea in one sentence, the precedent that proves it, the mechanic, the give and get, the number and the kill line. The rest of this file is bench depth for follow-up questions, and the target sheet is the "who would you call in week one" answer made physical.
+Same rails every time, so it becomes a machine rather than a series of stunts. One tracked landing page per campaign. Entry always requires an account plus a generation, so participation equals signup plus activation. Targets in the numbers Roemie already uses: 20,000 users in 14 days for a feature scale push. A kill line agreed before launch, so cutting a loser is automatic, not a debate. And everything runs on the moderated tier with human review before anything gets featured.
