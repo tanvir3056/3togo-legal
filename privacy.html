@@ -3,13 +3,13 @@
 <title>3toGo Privacy Policy</title>
 <style>body{font-family:-apple-system,system-ui,sans-serif;max-width:680px;margin:40px auto;padding:0 20px;line-height:1.6;color:#1a1a1a}h1{font-size:1.6em}h2{font-size:1.15em;margin-top:1.6em}footer{margin-top:3em;color:#777;font-size:.9em}</style></head><body>
 <h1>3toGo Privacy Policy</h1>
-<p>3toGo is made by Micro Habit Labs (Tanvir Singh Manku). It helps you manage your own screen time by asking short language-learning questions before unlocking apps you choose to block. Your Screen Time data and your learning stay on your iPhone. The only things that leave it are the app events described under <em>Analytics and advertising measurement</em>.</p>
+<p>3toGo is made by Micro Habit Labs (Tanvir Singh Manku). It helps you manage your own screen time by asking short language-learning questions before unlocking apps you choose to block. Your Screen Time data and your learning stay on your iPhone. The only things that leave it are the app events described under <em>Analytics and advertising measurement</em>, the anonymous usage counts described under <em>Usage data we collect ourselves</em>, and anything you choose to send us from the Support screen.</p>
 
 <h2>Screen Time data</h2>
 <p>3toGo uses Apple's Screen Time (Family Controls) frameworks with your explicit permission, solely to block and unblock the apps you select on your own device. The identifiers of your selected apps and all related usage state never leave your device. We do not collect, transmit, sell, or share Screen Time data with anyone, and we do not use it for advertising or measurement of any kind.</p>
 
 <h2>Learning data</h2>
-<p>Your question history, streaks, points, and progress are stored locally on your device. So are your XP, emergency unlocks and vacation days. There's no account and no 3toGo server, so none of it is uploaded, and it doesn't sync to your other devices.</p>
+<p>Your question history, streaks, points, and progress are stored locally on your device. So are your XP, emergency unlocks and vacation days. There's no account, so none of it syncs to your other devices. The questions, your answers and your words are never uploaded. The app does send us anonymous counts about how it is used (how many questions a gate took, for example), described under <em>Usage data we collect ourselves</em>.</p>
 
 <h2>Purchases</h2>
 <p>Subscriptions are processed entirely by Apple. We receive no payment details. When a free trial starts or a subscription is paid, the app tells Meta which plan it was and the currency, and for a payment the price, as described below.</p>
@@ -30,12 +30,30 @@
 <p>Once you have an active free trial or subscription, 3toGo asks you once, the next time you open it, with Apple's standard prompt, whether it may track you. If you allow it, the Meta SDK also sends your device's advertising identifier with events from then on (such as app opens and subscription payments). Meta can then connect those events to the ads you saw and to other information it holds, to measure our ads and decide who sees them.</p>
 <p>If you don't allow it, or you're never asked, iOS doesn't give the app or the SDK your advertising identifier, and Meta measures the events in aggregate. The events above are still sent either way.</p>
 <p>You can change your answer any time in iOS <em>Settings, Privacy &amp; Security, Tracking</em>.</p>
-<p>Meta is the only company the app shares data with. Its terms for businesses require it to protect this data at least as well as this policy does, and its <a href="https://www.facebook.com/privacy/policy/">Privacy Policy</a> explains how it keeps and deletes it. There are no other third-party analytics or trackers in the app.</p>
+<p>Meta is the only company the app shares data with for advertising measurement. Supabase only hosts our own database for us and may not use what is in it. Its terms for businesses require it to protect this data at least as well as this policy does, and its <a href="https://www.facebook.com/privacy/policy/">Privacy Policy</a> explains how it keeps and deletes it. There are no other third-party analytics SDKs or trackers in the app.</p>
 <p>If you've turned on sharing with app developers in iOS Settings, Apple may also send us crash reports from your device. That's Apple's setting, and you can turn it off there.</p>
 
+<h2>Usage data we collect ourselves</h2>
+<p>Since version 1.0.5 the app also sends a small set of usage events to our own database, so we can see where people get stuck and whether the app keeps helping after the first week. These go to a database we control, hosted for us by Supabase in the United States, and to nobody else. They are not used for advertising and are never shared with Meta.</p>
+<p>Each event carries a random install ID the app makes up the first time it runs (it is not your Apple ID, advertising ID or anything that names you), the app and iOS version, your device model, your App Store country and your language. The events are:</p>
+<ul>
+<li>the app was opened, and whether it was opened from a locked feed or a notification</li>
+<li>which intro steps you reached, and the feeds, daily minutes and unlock length you chose</li>
+<li>the plan screen was shown, which plan you tapped, and whether a purchase sheet was opened, cancelled or failed</li>
+<li>a free trial, subscription or offer code started, with the plan and your App Store country (no price or payment details)</li>
+<li>setup steps: whether Screen Time and notification permission were granted, how many apps you picked (never which ones), and that the lock was switched on</li>
+<li>a gate was started or completed, with the number of questions and how many you got right first time (never the questions or your answers), unlock length, emergency unlocks and vacation mode</li>
+<li>daily counts of how often a locked feed was opened and the shield was pressed</li>
+<li>that you added the widget, and that you opened the Support screen</li>
+</ul>
+<p>Not sent: the questions, your answers, your words, your streak, the apps you block, or anything typed anywhere except the Support screen. Supabase, like any server, sees your IP address while the app is connected to it; we do not store it with the events. We keep these events for up to 24 months.</p>
+
+<h2>Support messages</h2>
+<p>If you write to us from <em>Settings, Support and feedback</em>, we receive what you typed, the email address if you chose to add one, the app version and the install ID above. We use it only to read and reply. It is stored in the same database and deleted when the conversation is over, and in any case within 24 months, or sooner if you ask.</p>
+
 <h2>Keeping and deleting data</h2>
-<p>We don't run a server, so we don't keep a copy of your Screen Time data, your answers or your progress. Deleting the app removes most of its data from your iPhone. iOS can keep a small shared file the widget and blocking use (recent streak days, a few Spanish words and your blocked-app settings), and 3toGo clears the streak and words if you reinstall. To wipe your progress before you delete the app, use <em>Reset 3toGo</em> in <em>Settings, Your data</em>.</p>
-<p>Deleting the app doesn't remove events Meta has already received. Meta keeps and deletes those under its Privacy Policy, and you can manage how Meta uses data for ads in your Meta account settings. We keep support emails only as long as we need them to help you, and we'll delete yours if you ask. For any other request about your data, email us and we'll do what we can.</p>
+<p>We don't keep a copy of your Screen Time data, your answers or your progress; our own database holds only the usage events and support messages described above. Deleting the app removes most of its data from your iPhone. iOS can keep a small shared file the widget and blocking use (recent streak days, a few Spanish words and your blocked-app settings), and 3toGo clears the streak and words if you reinstall. To wipe your progress before you delete the app, use <em>Reset 3toGo</em> in <em>Settings, Your data</em>.</p>
+<p>Deleting the app doesn't remove events Meta has already received. Meta keeps and deletes those under its Privacy Policy, and you can manage how Meta uses data for ads in your Meta account settings. We keep support emails only as long as we need them to help you, and we'll delete yours if you ask. To have the usage events for your install deleted, send a message from <em>Settings, Support and feedback</em> (it carries the install ID, so we can find them) or email us; we delete them within 30 days.</p>
 
 <h2>This website</h2>
 <p>3togo.app and these policy pages are plain static sites. They set no cookies, run no analytics or trackers, and load no fonts from anyone else. Cloudflare hosts 3togo.app and GitHub Pages hosts these policy pages, and each gets your IP address and browser details when a page loads, because that's how the page reaches you. If you email us, we get your email address and whatever you write, and we use it to reply.</p>
@@ -48,5 +66,5 @@
 
 <h2>Contact</h2>
 <p>Questions: <a href="mailto:tanvir@3togo.app">tanvir@3togo.app</a></p>
-<footer>© 2026 Micro Habit Labs (Tanvir Singh Manku)</footer><p style="color:#666;font-size:0.9em">Last updated: 24 September 2026</p>
+<footer>© 2026 Micro Habit Labs (Tanvir Singh Manku)</footer><p style="color:#666;font-size:0.9em">Last updated: 3 October 2026</p>
 </body></html>
